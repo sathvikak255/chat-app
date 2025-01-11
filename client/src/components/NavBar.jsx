@@ -11,7 +11,7 @@ const NavBar = () => {
     return (<Navbar bg="dark" className="mb-4" style={{ height: "3.75rem" }}>
         <Container>
             <h2>
-                <Link className="link-light text-decoration-none" to={"/"}>ChattApp</Link>
+                <Link className="link-light text-decoration-none" to={"/"}>ChatApp</Link>
             </h2>
             {user && <span className="text-white">Logged in as {user?.name}</span>}
             <Nav>
