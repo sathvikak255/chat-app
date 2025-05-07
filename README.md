@@ -61,9 +61,9 @@ chat-app/
 
 5. Open your browser at `http://localhost:3000`
 
-## 📸 Screenshots
+<!-- ## 📸 Screenshots -->
 
-*Add screenshots here to show the app in action.*
+<!-- *Add screenshots here to show the app in action.* -->
 
 ## 🤝 Contributing
 
